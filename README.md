@@ -21,4 +21,5 @@ Below are the steps to be shown in the process flow-
 3) With incremental searches the graph database gets enriched, leading faster retrieval for a given brand query
 
 
-![RAG Pipeline Diagram]([https://github.com/kgourav148/RAG-Application/blob/main/RAG%20Architecture.png])
+!Process Flow process_flow
+
