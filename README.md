@@ -1,5 +1,4 @@
-# Brand-Competitors
-**Solution to find the top global competitors of the brand.**
+# Brand-Competitors : Solution to find the top global competitors of the brand 
 
 ![Process Flow Diagram](process_flow.png)
 
