@@ -19,3 +19,6 @@ Below are the steps to be shown in the process flow-
 		10) Add confidence value to the edges i.e. cosine similarity between the embeddings between to brands
 		11) Query the graph database to get the competitors for the original brand
 3) With incremental searches the graph database gets enriched, leading faster retrieval for a given brand query
+
+
+process_flow.png
