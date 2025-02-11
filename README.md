@@ -21,5 +21,5 @@ Below are the steps to be shown in the process flow-
 3) With incremental searches the graph database gets enriched, leading faster retrieval for a given brand query
 
 
-!Process Flow process_flow
+![Process Flow Diagram](process_flow.png)
 
