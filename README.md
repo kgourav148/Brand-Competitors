@@ -4,7 +4,7 @@
 ![Process Flow Diagram](process_flow.png)
 
 
-Below are the steps to be shown in the process flow-
+**Below are the detailed steps to be shown in the process flow**
 
 1) User inputs the brand name
 2) Check if the brand is present in graph database
