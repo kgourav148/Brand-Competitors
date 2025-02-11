@@ -20,4 +20,5 @@ Below are the steps to be shown in the process flow-
 		11) Query the graph database to get the competitors for the original brand
 3) With incremental searches the graph database gets enriched, leading faster retrieval for a given brand query
 
-!https://github.com/kgourav148/Brand-Competitors/blob/6e8e906d16afef82d3bbc6d0fc47c6edfade73e3/process_flow.png
+
+![RAG Pipeline Diagram]([https://github.com/kgourav148/RAG-Application/blob/main/RAG%20Architecture.png])
