@@ -3,6 +3,8 @@
 ![Process Flow Diagram](process_flow_map.png)
 
 
+Notebook link for testing - [Brand competitor finder](url)
+
 **Below are the detailed steps to be shown in the process flow**
 
 1) User inputs the brand name
