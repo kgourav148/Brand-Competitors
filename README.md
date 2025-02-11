@@ -1,6 +1,6 @@
 # Brand-Competitors : Gen AI solution to find global competitors for a brand 
 
-![Process Flow Diagram](process_flow.png)
+![Process Flow Diagram](process_flow_map.png)
 
 
 **Below are the detailed steps to be shown in the process flow**
