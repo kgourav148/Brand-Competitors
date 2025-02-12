@@ -1,6 +1,6 @@
 # Brand-Competitors : Gen AI solution to find global competitors for a brand 
 
-**Notebook link for testing** - [Find brand competitors](url)
+**Notebook link for testing** - [Find brand competitors](https://colab.research.google.com/drive/1Vud13VLGxT89yInWWlWHFfi9QxUs3LFq?usp=sharing)
 
 ![Process Flow Diagram](process_flow_map.png)
 
